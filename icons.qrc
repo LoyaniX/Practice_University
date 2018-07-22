@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shema.jpg</file>
+        <file>c.png</file>
+        <file>cal.png</file>
+        <file>Fon.png</file>
+        <file>m1.png</file>
+        <file>m2.png</file>
+        <file>m3.png</file>
+        <file>m4.png</file>
+        <file>m5.png</file>
+        <file>m6.png</file>
+    </qresource>
+</RCC>
