@@ -5,5 +5,4 @@
 <p>Есть возможность прочесть методические указания</p>
 <p>В программе реализованна возможность постоения грпфика амплитудно-частотной характеристики</p>
 <p>Сохпанение рещультатов расчета в текстовый файл</p>
-![screenshot](https://github.com/LoyaniX/Practice_University/blob/master/screen1.jpg)
-![screenshot](https://github.com/LoyaniX/Practice_University/blob/master/screen2.jpg)
+
