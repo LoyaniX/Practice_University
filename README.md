@@ -6,3 +6,5 @@
 <p>В программе реализованна возможность постоения грпфика амплитудно-частотной характеристики</p>
 <p>Сохпанение рещультатов расчета в текстовый файл</p>
 
+![screen1](https://user-images.githubusercontent.com/33636251/45010729-91b38d80-b017-11e8-96c6-cda29d8401ec.jpg)
+![screen2](https://user-images.githubusercontent.com/33636251/45010730-91b38d80-b017-11e8-976e-d1b6aec9a29e.jpg)
